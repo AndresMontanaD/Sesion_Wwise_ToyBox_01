@@ -18,6 +18,13 @@
 				<Event Name="aterriza_personaje" ID="{4E17E2FC-7509-401D-ABB3-51EA4D025061}"/>
 				<Event Name="alarma_derrumbe_torre" ID="{5AC2F575-19D7-4FD3-AEE0-92579D361324}"/>
 				<Event Name="musica_partida" ID="{21EBED80-CD7F-4901-A783-3F1FC0EAF85C}"/>
+				<Event Name="muere_personaje" ID="{F457874B-518F-480F-B978-C342D652837C}"/>
+				<Event Name="caida_personaje" ID="{B524CCDD-8175-4B13-9A72-8DD09CFBEAA4}"/>
+				<Event Name="muere_boss" ID="{001BFDC4-E03F-49AF-B2AA-DEA79E92BB80}"/>
+				<Event Name="impacto_boss" ID="{8892E499-1F96-43D5-8191-8B00389BB857}"/>
+				<Event Name="presencia_boss" ID="{ABA39EE0-6963-4F09-AFB3-97DD4B857AF8}"/>
+				<Event Name="nivel_superado" ID="{714FBA91-CC1D-4143-81A4-7C787EB1E5CA}"/>
+				<Event Name="aparicion_trampas" ID="{53767F7B-0F95-4370-9FA2-101250F9AAEF}"/>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
