@@ -8,6 +8,11 @@
 				<Event Name="lanza_aguja" ID="{F020FDCF-79BA-4BD7-8B99-C49E1D472AEC}"/>
 				<Event Name="salto_personaje" ID="{70275F48-2407-46DE-935A-4092826DFB5B}"/>
 				<Event Name="recibe_dano" ID="{B4DCFA2D-2A59-4FED-B0A9-6D0A4AEE4FA6}"/>
+				<Event Name="aparece_torre" ID="{B8D07FC5-688D-46BC-9EFA-EAE71B82A428}"/>
+				<Event Name="desaparece_torre" ID="{E6D1361F-0F00-45C5-997C-10EA758D4C9F}"/>
+				<Event Name="impacto_enemigo" ID="{C8044688-687A-4286-A5B7-E6112B03C76B}"/>
+				<Event Name="muere_enemigo" ID="{95CFD46A-E55F-4744-AD89-2A0BF2724B80}"/>
+				<Event Name="recoge_botones" ID="{078E51BC-4E38-44DF-ABDA-8B0C6BF46BC9}"/>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

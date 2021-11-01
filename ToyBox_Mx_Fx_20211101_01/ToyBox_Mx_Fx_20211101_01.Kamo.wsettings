@@ -5,7 +5,12 @@
 			<PropertyList>
 				<Property Name="Event Action List\{164FADA3-68D8-41EF-B56D-F93EB52500BB}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{70275F48-2407-46DE-935A-4092826DFB5B}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{95CFD46A-E55F-4744-AD89-2A0BF2724B80}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{B2948AD6-0E86-430F-AC7F-C6B81A7E6D65}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{B4DCFA2D-2A59-4FED-B0A9-6D0A4AEE4FA6}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{B8D07FC5-688D-46BC-9EFA-EAE71B82A428}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{C8044688-687A-4286-A5B7-E6112B03C76B}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{E6D1361F-0F00-45C5-997C-10EA758D4C9F}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{F020FDCF-79BA-4BD7-8B99-C49E1D472AEC}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="ExternalSourcesInputPath" Type="string">
 					<ValueList>
