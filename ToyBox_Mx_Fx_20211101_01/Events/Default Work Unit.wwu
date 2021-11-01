@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{96A38380-A573-403C-BF48-5447B3D66277}" SchemaVersion="97">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{96A38380-A573-403C-BF48-5447B3D66277}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{96A38380-A573-403C-BF48-5447B3D66277}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="menu_inicio" ID="{B2948AD6-0E86-430F-AC7F-C6B81A7E6D65}"/>
+				<Event Name="pasos_personaje" ID="{164FADA3-68D8-41EF-B56D-F93EB52500BB}"/>
+				<Event Name="lanza_aguja" ID="{F020FDCF-79BA-4BD7-8B99-C49E1D472AEC}"/>
+				<Event Name="salto_personaje" ID="{70275F48-2407-46DE-935A-4092826DFB5B}"/>
+				<Event Name="recibe_dano" ID="{B4DCFA2D-2A59-4FED-B0A9-6D0A4AEE4FA6}"/>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>
