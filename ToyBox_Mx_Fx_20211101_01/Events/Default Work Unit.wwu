@@ -13,6 +13,11 @@
 				<Event Name="impacto_enemigo" ID="{C8044688-687A-4286-A5B7-E6112B03C76B}"/>
 				<Event Name="muere_enemigo" ID="{95CFD46A-E55F-4744-AD89-2A0BF2724B80}"/>
 				<Event Name="recoge_botones" ID="{078E51BC-4E38-44DF-ABDA-8B0C6BF46BC9}"/>
+				<Event Name="Interface_menu" ID="{88F661D9-8CB8-4918-8F8C-328CEFF09E1C}"/>
+				<Event Name="palanca_torre1" ID="{B1F9F957-6659-41D0-8CEF-D33A036FED0F}"/>
+				<Event Name="aterriza_personaje" ID="{4E17E2FC-7509-401D-ABB3-51EA4D025061}"/>
+				<Event Name="alarma_derrumbe_torre" ID="{5AC2F575-19D7-4FD3-AEE0-92579D361324}"/>
+				<Event Name="musica_partida" ID="{21EBED80-CD7F-4901-A783-3F1FC0EAF85C}"/>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
